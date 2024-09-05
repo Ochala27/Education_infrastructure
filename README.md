@@ -23,6 +23,14 @@ Impact Measurement and Customizable Dashboards:Visual representation of impact m
 Transparent Reporting and Analytics:Quick access to project-specific reports, analytics, and user feedback
 
 ![Screenshot (59)](https://github.com/user-attachments/assets/0c10c3f6-b850-4dde-8999-db91a61300cc)
+![Screenshot (60)](https://github.com/user-attachments/assets/d39932d2-a660-4525-9f5d-70b6042ebf16)
+![Screenshot (62)](https://github.com/user-attachments/assets/4135ee50-0f4c-4ef6-bf1c-999ad030bbf2)
+![Screenshot (63)](https://github.com/user-attachments/assets/fde26d2c-41fd-453d-9ded-a99555b0e89d)
+![Screenshot (64)](https://github.com/user-attachments/assets/cb14ef12-6c90-4df6-9c01-fcf35b3a8418)
+
+
+
+
 
 
 ## Login Page (1):
