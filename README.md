@@ -22,6 +22,9 @@ Impact Measurement and Customizable Dashboards:Visual representation of impact m
 
 Transparent Reporting and Analytics:Quick access to project-specific reports, analytics, and user feedback
 
+![Screenshot (59)](https://github.com/user-attachments/assets/0c10c3f6-b850-4dde-8999-db91a61300cc)
+
+
 ## Login Page (1):
 Contains fields for email and password input, and options for signing in.
 Links for Forgot Password and Sign up are available below the login button.
